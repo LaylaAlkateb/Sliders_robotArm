@@ -2,7 +2,7 @@
 index.html style.css
 
 
-![image](https://user-images.githubusercontent.com/80922570/123136234-5e0db080-d45b-11eb-83cb-2c03ff3f981c.png)
+![image](https://user-images.githubusercontent.com/80922570/123137809-0e2fe900-d45d-11eb-8464-4109548f3823.png)
 
 
 1.php ملف
