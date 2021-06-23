@@ -3,7 +3,7 @@ index.html style.css
 
 
 ![image](https://user-images.githubusercontent.com/80922570/123136234-5e0db080-d45b-11eb-83cb-2c03ff3f981c.png)
-وربط قاعدة البيانات ب html
+
 
 1.php ملف
 
